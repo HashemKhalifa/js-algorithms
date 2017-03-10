@@ -40,7 +40,7 @@
     "flow-bin": "^0.41.0",
     "flow-typed": "^2.0.0",
     "jest-cli": "^19.0.2",
-    "tcomb": "^3.2.18"
+    "tcomb": "^3.2.20"
   },
   "engines": {
     "node": ">=6",
